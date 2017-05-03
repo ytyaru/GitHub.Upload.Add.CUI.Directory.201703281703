@@ -1,9 +1,6 @@
 ﻿# このソフトウェアについて
 
-GitHubアップローダのPagenation部を共通化した。
-
-Pagenation専用classが不要になった。
-`./web/http/Request.py`を使えば短いコードでページネーションできた。
+GitHubアップローダのGitHubAPI部分を大幅に改修した。
 
 # 前回まで
 
