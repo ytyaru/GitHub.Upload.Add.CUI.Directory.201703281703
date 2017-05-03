@@ -4,8 +4,10 @@ GitHubアップローダのGitHubAPI部分を大幅に改修した。
 
 # 前回まで
 
-* GitHub.Upload.ByPython.Add.Database.Create.refactoring.Response.201703270700
-* GitHub.Upload.ByPython.Add.Database.Create.refactoring.Data.201703261947
+* [GitHub.Upload.ByPython.Add.Database.Create.refactoring.GitHubApi.201703280740](https://github.com/ytyaru/GitHub.Upload.ByPython.Add.Database.Create.refactoring.GitHubApi.201703280740)
+* [GitHub.Upload.ByPython.Add.Database.Create.refactoring.Pagenation.201703271311](https://github.com/ytyaru/GitHub.Upload.ByPython.Add.Database.Create.refactoring.Pagenation.201703271311)
+* [GitHub.Upload.ByPython.Add.Database.Create.refactoring.Response.201703270700](https://github.com/ytyaru/GitHub.Upload.ByPython.Add.Database.Create.refactoring.Response.201703270700)
+* [GitHub.Upload.ByPython.Add.Database.Create.refactoring.Data.201703261947](https://github.com/ytyaru/GitHub.Upload.ByPython.Add.Database.Create.refactoring.Data.201703261947)
 
 # 開発環境
 
